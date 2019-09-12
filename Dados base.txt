@@ -1,0 +1,271 @@
+FAMOSOS
+
+
+==================================
+
+Nome 			: Scarlett Johansson
+Data Nascimento 	: November 22, 1984
+URL Imagem		: https://amp.insider.com/images/5c8a8141dd08611286199063-750-563.jpg
+Dica			: Viuva negra 
+
+==================================
+
+
+
+==================================
+
+Nome 			: Robert Downey, Jr.
+Data Nascimento 	: April 4, 1965
+URL Imagem		: http://br.web.img2.acsta.net/pictures/18/06/29/00/35/0101925.jpg
+Dica			: Homem de ferro 	
+
+==================================
+
+
+
+==================================
+
+Nome 			: Chris Evans
+Data Nascimento 	: June 13, 1981
+URL Imagem		: https://www.altfg.com/film/wp-content/uploads/images/2016/05/captain-america-civil-war-chris-evans.jpg
+Dica			: Capitão america 
+
+==================================
+
+
+==================================
+
+Nome 			: Chris Hemsworth
+Data Nascimento 	: August 11, 1983
+URL Imagem		: https://cdn.mamamia.com.au/wp/wp-content/uploads/2017/10/19170125/Thor-Ragnorok-Social-650x507.jpg
+Dica			: Thor
+
+==================================
+
+
+
+==================================
+
+Nome 			: Jeremy Renner
+Data Nascimento 	: January 7, 1971
+URL Imagem		: https://media.wired.com/photos/5d7125ee9e087200080de8f1/master/pass/Culture_Monitor_Renner-972293712.jpg
+Dica			: Gavião arqueiro
+
+==================================
+
+
+
+==================================
+
+Nome 			: Mark Ruffalo
+Data Nascimento 	: November 22, 1967
+URL Imagem		: https://upload.wikimedia.org/wikipedia/commons/1/11/Mark_Ruffalo_%2836201774756%29_%28cropped%29.jpg
+Dica			: Hulk em os vingadores
+
+==================================
+
+
+
+==================================
+
+Nome 			: Tom Hiddleston
+Data Nascimento 	: February 9, 1981
+URL Imagem		: https://i.pinimg.com/736x/d4/c7/fe/d4c7fef4d58523e144b6282ac6fe7971.jpg
+Dica			: Loki em os vingadores
+
+==================================
+
+
+==================================
+
+Nome 			: Samuel L. Jackson
+Data Nascimento 	: December 21, 1948
+URL Imagem		: https://cdn.britannica.com/77/191077-050-63262B99/Samuel-L-Jackson.jpg
+Dica			: Nick Fury em os vingadores
+
+==================================
+
+
+
+==================================
+
+Nome 			: Paul Rudd
+Data Nascimento 	: April 6, 1969
+URL Imagem		: https://upload.wikimedia.org/wikipedia/commons/9/92/Paul_Rudd_%28cropped%29_2.jpg
+Dica			: Homem-formiga
+
+==================================
+
+
+
+==================================
+
+Nome 			: Tom Holland
+Data Nascimento 	: June 1, 1996
+URL Imagem		: https://ewedit.files.wordpress.com/2018/06/tom-holland1.jpg?crop=981px%2C103px%2C1010px%2C1010px&resize=1200%2C1200
+Dica			: Homem-aranha UCM
+
+==================================
+
+
+
+==================================
+
+Nome 			: Mariah Carey
+Data Nascimento 	: March 27, 1970
+URL Imagem		: 
+Dica			: Cantora
+
+==================================
+
+
+
+==================================
+
+Nome 			: Karen Gillan
+Data Nascimento 	: November 28, 1987
+URL Imagem		: https://gamespot1.cbsistatic.com/uploads/original/171/1712892/3360013-image.jpg
+Dica			: Nebulosa em os vingadores
+
+==================================
+
+
+
+==================================
+
+Nome 			: Don Cheadle
+Data Nascimento 	: November 29, 1964
+URL Imagem		: https://cdn1.thr.com/sites/default/files/imagecache/scale_crop_768_433/2019/07/gettyimages-969551878_0.jpg
+Dica			: War machine
+
+==================================
+
+
+
+==================================
+
+Nome 			: Josh Brolin
+Data Nascimento 	: February 12, 1968
+URL Imagem		: https://pmcvariety.files.wordpress.com/2019/02/josh-brolin.jpg?w=1000
+Dica			: Thanos e Cable
+
+==================================
+
+
+
+==================================
+
+Nome 			: Chris Pratt
+Data Nascimento 	: June 21, 1979
+URL Imagem		: https://upload.wikimedia.org/wikipedia/commons/d/d0/Chris_Pratt_%2828046276644%29_%28cropped%29.jpg
+Dica			: Star Lord
+
+==================================
+
+
+==================================
+
+Nome 			: Anthony Mackie
+Data Nascimento 	: September 23, 1978
+URL Imagem		: https://www.indiewire.com/wp-content/uploads/2019/06/shutterstock_10216461ao.jpg
+Dica			: Falcão em os vingadores
+
+==================================
+
+
+==================================
+
+Nome 			: Elizabeth Olsen
+Data Nascimento 	: February 16, 1989
+URL Imagem		: 
+Dica			: 
+
+==================================
+
+
+
+==================================
+
+Nome 			: Benedict Cumberbatch
+Data Nascimento 	: July 19, 1976
+URL Imagem		: 
+Dica			: Doutor Estranho
+
+==================================
+
+
+
+==================================
+
+Nome 			: Sebastian Stan
+Data Nascimento 	: August 13, 1982
+URL Imagem		: 
+Dica			: Soldado Invernal
+
+==================================
+
+
+
+==================================
+
+Nome 			: Chadwick Aaron Boseman
+Data Nascimento 	: November 29, 1977
+URL Imagem		: 
+Dica			: Pantera Negra
+
+==================================
+
+
+
+==================================
+
+Nome 			: Dave Bautista
+Data Nascimento 	: January 18, 1969
+URL Imagem		: 
+Dica			: Drax
+
+==================================
+
+
+
+==================================
+
+Nome 			: Benedict Wong
+Data Nascimento 	: June 3, 1971
+URL Imagem		: 
+Dica			: Wong em doutor estranho
+
+==================================
+
+
+
+==================================
+
+Nome 			: Letitia Wright
+Data Nascimento 	: October 31, 1993
+URL Imagem		: 
+Dica			: Shuri em pantera negra
+
+==================================
+
+
+
+==================================
+
+Nome 			: 
+Data Nascimento 	: 
+URL Imagem		: 
+Dica			: 
+
+==================================
+
+
+
+==================================
+
+Nome 			: 
+Data Nascimento 	: 
+URL Imagem		: 
+Dica			: 
+
+==================================
